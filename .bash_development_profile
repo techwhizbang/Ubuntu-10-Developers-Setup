@@ -1,0 +1,8 @@
+#### bash development profile
+
+# Setup Java
+export JAVA_HOME=/usr/lib/jvm/java-6-sun
+export PATH=$PATH:$JAVA_HOME/bin
+
+# This loads RVM into a shell session.
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"  
