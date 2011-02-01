@@ -14,6 +14,7 @@ sudo apt-get install libxslt-dev libxslt-ruby
 sudo apt-get install libsqlite3-dev
 sudo aptitude install rdoc
 sudo apt-get install git-core
+sudo apt-get install libssl-dev openssl
 sudo apt-get install curl
 sudo add-apt-repository "deb http://archive.canonical.com/ lucid partner"
 sudo apt-get update
