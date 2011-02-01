@@ -1,0 +1,3 @@
+Script the setup of a Ubuntu 10 developers machine
+
+Ultimately it should something like a chef-solo install or puppet install, for now this will work.
